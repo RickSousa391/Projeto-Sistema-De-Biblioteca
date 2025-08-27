@@ -1,2 +1,1 @@
-# Projeto-Sistema-De-Biblioteca
-Projeto para sistema de bibliotecas (TCC)
+# Projeto de sistema de biblioteca
